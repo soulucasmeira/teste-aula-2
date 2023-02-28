@@ -1,1 +1,1 @@
-console.log('Fala galera')
+console.log('Fala, galera. Você estão bem?')
